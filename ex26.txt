@@ -1,0 +1,5 @@
+In this exercise, 
+you will practice dealing with a bad programmer by fixing a bad programmer’s code. 
+I have poorly copied Exercises 24 and 25 into a file and removed random characters and added flaws. 
+Most of the errors are things Python will tell you, while some of them are math errors you should find. 
+Others are formatting errors or spelling mistakes in the strings.
